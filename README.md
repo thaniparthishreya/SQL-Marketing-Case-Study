@@ -40,7 +40,7 @@ Analyzed campaign performance, customer behavior, and revenue impact using struc
 - Identified profitable vs underperforming campaigns using ROI analysis  
 - Measured acquisition efficiency through CAC calculations  
 - Discovered that a small segment of repeat buyers drives disproportionate revenue  
-- Observed seasonal revenue spikes in Q4  
+- Observed seasonal revenue spikes 
 - Compared revenue contribution between churned and active customers  
 
 ---
